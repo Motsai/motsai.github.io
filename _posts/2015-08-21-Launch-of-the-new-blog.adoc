@@ -1,0 +1,10 @@
+= Launch of the new blog
+:published_at: 2015-08-21
+:hp-tags: Blog, New, Release
+:stem: latexmath
+:icons: font
+
+Today we are glad to announce the beginning of a new era in Motsai's history --- the launch of the official blog! This will be the place where the great minds at work in Motsai will present their nuggets of knowledge to the outside world. So ...
+
+image:http://i568.photobucket.com/albums/ss126/juhkystar/Comics/HelloWorld.png[]
+
